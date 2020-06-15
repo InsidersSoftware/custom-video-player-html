@@ -13,8 +13,8 @@
         </svg>
       </div>
 
-      <video controls class="video" id="video" preload="metadata" poster="poster.jpg">
-        <source src="video.mp4" type="video/mp4"></source>
+      <video controls class="video" id="video" preload="metadata" poster="thumbnail/271020286/poster.jpg">
+        <source src="video/271020286/video.mp4" type="video/mp4"></source>
       </video>
 
       <div class="video-controls hidden" id="video-controls">
