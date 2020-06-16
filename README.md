@@ -1,7 +1,7 @@
 # custom-video-player-html
 A Simple Custom HTML Video Player 
 
-# Gettin Started 
+# Getting Started 
 ```html
     <div class="container">
     <div class="video-container" id="video-container">
