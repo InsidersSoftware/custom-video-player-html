@@ -2,14 +2,14 @@
 A Simple Custom HTML Video Player 
 
 # Getting Started 
-   ## Make A Script Tag:
-    ```html
-         <script type="text/javascript" src="http://localhost/InsiderBlog/js/video/video-player.js"></script>
-    ```
+## Make A Script Tag:
+```html
+ <script type="text/javascript" src="http://localhost/InsiderBlog/js/video/video-player.js"></script>
+```
    ## Make Link Tag:
-    ```html
-        <link rel="stylesheet" href="css/style.css"/>
-    ```
+```html
+<link rel="stylesheet" href="css/style.css"/>
+```
 
 ```html
     <div class="container">
